@@ -1,0 +1,5 @@
+
+https://docs.microsoft.com/en-us/azure/developer/jenkins/configure-on-linux-vm
+
+
+4abb2a88520d47299af8ef66c4233042
